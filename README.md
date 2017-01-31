@@ -1,5 +1,8 @@
 # elm-http
 
+*DEPRECATED: The project has moved to [elm-lang/http](https://github.com/elm-lang/http).*
+
+
 Make HTTP requests in Elm.
 
 The `Http` module aims to cover some of the most common cases of requesting
